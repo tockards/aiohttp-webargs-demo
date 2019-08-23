@@ -1,18 +1,19 @@
 # Webargs and aiohttp
 
-#### A Prettier, simpler and straight forward code example of handling request arguments in with aiohttp
+#### A Prettier, simpler and straight forward code example of handling request arguments in aiohttp
 requires `python3` for code and `curl` for examples.
-
+This demo uses the [webargs library](https://webargs.readthedocs.io/en/latest/index.html) 
+#### Installation 
 ```
 pip3 install -r requirements.txt
 ```
 
-Run 
+#### Run 
 ```
 python3 aiohttp-webargs-demo.py
 ```
 
-Examples of request
+##Examples of request
 
 |Request|Response|
 |-------|--------|
